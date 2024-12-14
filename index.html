@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+
+<script src="src/libs/marked.min.js"></script>
+
+<title>C the Unheard!</title>
+<meta property="og:url" content="https://rabeakleymann.github.io/c-the-unheard/">
+<meta property="og:title" content="C the Unheard!">
+<meta property="og:description" content="Datenbasierte Kartierungen zivilgesellschaftlicher Diskurse in Chemnitz">
+<meta property="og:image" content="https://rabeakleymann.github.io/c-the-unheard/media/share.jpg">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="720">
+    
+<style>
+    @font-face {
+        font-family: 'Roboto';
+        font-weight: 700; /* Bold */
+        font-style: normal;
+        src: url('src/fonts/Roboto-Bold.ttf') format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Roboto';
+        font-weight: 300;
+        font-style: normal;
+        src: url('src/fonts/Roboto-Light.ttf') format('truetype');
+    }
+
+    /* dark mode */
+    :root {
+        --dark: #000;;
+        --light: white;
+        --side: rgba(25,25,25,.66);
+        --link: #01227d;
+        --hover: #c65306;
+    }
+    
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --dark: white;
+            --light: black;
+            --side: rgba(230,230,230,.66);
+            --link: #8b9cc7;
+        }
+    }
+    html, body {
+        overflow-x: hidden;
+    }   
+
+    html { scroll-behavior: smooth; }
+
+    main ::selection {
+        background-color: var(--link);
+        color: white;
+    }
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-size: calc(.75vw + .75vh);
+        margin: 0;
+        font-weight: 300;
+        color: var(--dark);
+        background-color: var(--light);
+    }
+    h1, h2, h3 {font-weight: 700; }
+    p { line-height: 1.5em;}
+    
+    h1 { font-size: 2.25em; margin-bottom: 0; }
+    h2 { font-size: 1.5em; }
+    h3 { font-size: 1.25em; }
+
+    img { max-width: 100%; background-color: white;}
+
+    p:has(em) { margin-top: -1em; padding: 0; }
+
+    em { 
+        text-align: right;
+        color: gray;
+        font-style: normal;
+        font-size: .75em;
+        margin: 0;
+        padding: 0;
+    }
+    
+    main { 
+        margin: auto;
+        max-width: 800px;
+        padding: 1em;        
+    }
+
+    main a:link { color: var(--link); }
+    main a:visited { color: var(--link); }
+    main a:active { color: var(--hover); }
+    main a:hover { color: var(--dark);}
+
+    nav {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 300px;
+        height: 100%;
+        background-color: var(--side);
+        backdrop-filter: blur(10px);
+        color: var(--light);
+        overflow-y: auto;
+        transform: translateX(100%); 
+        transition: transform 0.5s ease-in-out;
+        z-index: 1000;
+    }
+
+    nav.open {
+        transform: translateX(0); /* Slide the menu into view */
+    }
+
+    nav ul {
+        font-size: .8em;
+        list-style: none;
+        padding: 0;
+        margin: .5em 0 0 0;
+    }
+
+    nav li {
+        margin: 0;
+        padding: 0;
+    }
+
+    nav li a {
+        display: block;
+        padding: 10px 20px;
+        color: var(--light);
+        text-decoration: none;
+        font-size: 1.25em;
+    }
+
+    nav li a:hover {
+        background-color: var(--side);
+    }
+
+    .hamburger {
+        position: fixed;
+        top: 10px;
+        right: 10px; 
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+        z-index: 10;
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .hamburger.open {
+        transform: translateX(-295px); 
+        cursor: pointer;
+    }
+
+    .hamburger div {
+        width: 100%;
+        height: 4px;
+        background-color: var(--dark);
+        margin: 6px 0;
+        transition: all 0.5s;
+    }
+
+    .hamburger.open div:nth-child(1) {
+        transform: rotate(45deg) translate(4px, 10px);
+    }
+
+    .hamburger.open div:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.open div:nth-child(3) {
+        transform: rotate(-45deg) translate(4px, -10px);
+    }
+
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 5;
+        display: none;
+    }
+
+    .overlay.active {
+        display: block;
+    }
+
+    @media (max-width: 1000px) and (orientation: portrait) and (min-resolution: 250dpi) {
+        body {
+            font-size: 18px;            
+        }
+    }
+
+
+    
+</style>
+
+</head>
+<body>
+
+<div class="hamburger" id="hamburger">
+    <div></div>
+    <div></div>
+    <div></div>
+</div>
+<div class="overlay" id="overlay"></div>
+<nav id="menu"></nav>
+<main></main>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+    const hamburger = document.getElementById("hamburger");
+    const menu = document.getElementById("menu");
+    const overlay = document.getElementById("overlay");
+
+    // Function to fetch and parse README.md
+    async function loadReadme() {
+        try {
+            const response = await fetch("README.md");
+            if (!response.ok) throw new Error("Failed to load README.md");
+            
+            const markdown = await response.text();
+            const htmlContent = marked.parse(markdown);
+
+            // Inject the parsed content into <main>
+            const mainElement = document.querySelector("main");
+            mainElement.innerHTML = htmlContent;
+
+            // Populate navigation menu
+            populateMenu(mainElement);
+        } catch (error) {
+            console.error(error);
+            document.querySelector("main").innerHTML = `<p>Error loading README.md</p>`;
+        }
+    }
+
+    // Function to populate the navigation menu
+    function populateMenu(mainElement) {
+        const headings = mainElement.querySelectorAll("h1, h2");
+
+        menu.innerHTML = ""; // Clear existing menu content
+
+        // Create a <ul> element
+        const list = document.createElement("ul");
+
+        headings.forEach((heading) => {
+            const id = heading.textContent.toLowerCase().replace(/\s+/g, "-").replace(/[^\w-]/g, "");
+            heading.id = id; // Assign ID to the heading
+
+            // Create <li> and <a> elements
+            const listItem = document.createElement("li");
+            const link = document.createElement("a");
+            link.href = `#${id}`;
+            link.textContent = heading.textContent;
+
+            // Append the link to the list item, then the list item to the list
+            listItem.appendChild(link);
+            list.appendChild(listItem);
+        });
+
+        // Append the list to the nav element
+        menu.appendChild(list);
+    }
+
+    // Function to open/close the menu
+    const toggleMenu = () => {
+        hamburger.classList.toggle("open");
+        menu.classList.toggle("open");
+        overlay.classList.toggle("active");
+    };
+
+    // Attach toggle functionality to the hamburger icon
+    hamburger.addEventListener("click", toggleMenu);
+
+    // Close the menu when clicking on the overlay
+    overlay.addEventListener("click", toggleMenu);
+
+    // Load the README.md file
+    loadReadme();
+});
+</script>
+</body>
+</html>

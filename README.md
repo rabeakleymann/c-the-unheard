@@ -111,11 +111,11 @@ Diese Angebote konzentrieren sich überwiegend auf den sozialen Austausch. Beisp
 
 ## Datengrundlage
 
-Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
-Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].
-Stadtverband Chemnitz der Kleingärtner e.V., „Mitgliedsvereine“, https://stadtverband-chemnitz.de/mitgliedsvereine.html [zuletzt aufgerufen am 13.12.2024].
-Student_innen Rat der TU Chemnitz, „Anerkannte stud. Initiativen des Student_innenrates“, aktualisiert am 26.07.2024, https://www.stura.tu-chemnitz.de/initiativen [zuletzt aufgerufen am 13.12.2024].
-Stadt Chemnitz, „Sporteinrichtungen“, aktualisiert am 09.10.2024, https://portal-chemnitz.opendata.arcgis.com/datasets/efd8c6dd60c54ffb8c05e7b1a867b54f_0/explore?location=50.822380%2C12.887629%2C11.60&showTable=true [zuletzt aufgerufen am 13.12.2024].
+- Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
+- Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].
+- Stadtverband Chemnitz der Kleingärtner e.V., „Mitgliedsvereine“, https://stadtverband-chemnitz.de/mitgliedsvereine.html [zuletzt aufgerufen am 13.12.2024].
+- Student_innen Rat der TU Chemnitz, „Anerkannte stud. Initiativen des Student_innenrates“, aktualisiert am 26.07.2024, https://www.stura.tu-chemnitz.de/initiativen [zuletzt aufgerufen am 13.12.2024].
+- Stadt Chemnitz, „Sporteinrichtungen“, aktualisiert am 09.10.2024, https://portal-chemnitz.opendata.arcgis.com/datasets/efd8c6dd60c54ffb8c05e7b1a867b54f_0/explore?location=50.822380%2C12.887629%2C11.60&showTable=true [zuletzt aufgerufen am 13.12.2024].
 
 Weitere Quellen:
 Bahr, Wolfgang, Jörn Richter, und Chemnitzer Allgemeine Wohnungsbaugenossenschaft, Hrsg. 2002. Gartenstadt Gablenzsiedlung Chemnitz: Entstehung, Geschichte und Sanierung einer Genossenschaftssiedlung. Chemnitz: Verl. Heimatland Sachsen GmbH Chemnitz.

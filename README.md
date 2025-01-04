@@ -1,3 +1,5 @@
+_work-in-progress_
+
 # C the Unheard!
 
 **Datenbasierte Kartierungen zivilgesellschaftlicher Diskurse in Chemnitz**
@@ -9,7 +11,6 @@ Das Projektvorhaben widmet sich einer datenbasierten Kartierung zivilgesellschaf
 
 ## Initiativen und Vereine in Chemnitz 
 
-Abbildung fehlt
 Chemnitz lebt vom zivilgesellschaftlichen Engagement seiner Bürge*innen, das in zahlreichen Vereinen und Initiativen sichtbar wird. Die Visualisierung zeigt eine erste Verteilung und das Verhältnis der im Rahmen des Projekts untersuchten Vereine und Initiativen in Chemnitz. Die Datensammlung stellt dabei lediglich einen exemplarischen, jedoch nicht vollständigen Ausschnitt der Vereine und Initiativen in Chemnitz dar. 
 
 Sportvereine (154), der Stadtverband Chemnitz der Kleingärtner e.V. (179) und Angebote der kulturellen Bildung (138) decken gemeinsam mehr als 90% des Vereinslebens in Chemnitz ab. Die Bedeutung des Sports wird unter anderem durch das Vorhandensein von insgesamt 133 Sporteinrichtungen unterstrichen, die überall in der Stadt zu finden sind. Die Kleingartenbewegung in Chemnitz blickt auf eine lange Geschichte zurück. So wurde beispielsweise im Zeitraum von 1920 bis 1937 die Gartenstadt Gablenz entwickelt, die nicht nur grünen Freiraum schaffen sollte, sondern auch ein neues Modell des städtischen Zusammenlebens darstellt. Mit einem Anteil von ca. 3,7% an der [Gesamtbevölkerung von Chemnitz](https://www.chemnitz.de/chemnitz/de/unsere-stadt/stadtportrait/zahlen-und-fakten/bevoelkerung.html) wird ferner deutlich, dass das ehrenamtliche Engagement von Studierenden der TU eine große Rolle spielt. 
@@ -140,11 +141,11 @@ Diese Angebote konzentrieren sich überwiegend auf den sozialen Austausch. Beisp
 
 ## Datengrundlage
 
-Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
-Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].
-Stadtverband Chemnitz der Kleingärtner e.V., „Mitgliedsvereine“, https://stadtverband-chemnitz.de/mitgliedsvereine.html [zuletzt aufgerufen am 13.12.2024].
-Student_innen Rat der TU Chemnitz, „Anerkannte stud. Initiativen des Student_innenrates“, aktualisiert am 26.07.2024, https://www.stura.tu-chemnitz.de/initiativen [zuletzt aufgerufen am 13.12.2024].
-Stadt Chemnitz, „Sporteinrichtungen“, aktualisiert am 09.10.2024, https://portal-chemnitz.opendata.arcgis.com/datasets/efd8c6dd60c54ffb8c05e7b1a867b54f_0/explore?location=50.822380%2C12.887629%2C11.60&showTable=true [zuletzt aufgerufen am 13.12.2024].
+- Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
+- Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].
+- Stadtverband Chemnitz der Kleingärtner e.V., „Mitgliedsvereine“, https://stadtverband-chemnitz.de/mitgliedsvereine.html [zuletzt aufgerufen am 13.12.2024].
+- Student_innen Rat der TU Chemnitz, „Anerkannte stud. Initiativen des Student_innenrates“, aktualisiert am 26.07.2024, https://www.stura.tu-chemnitz.de/initiativen [zuletzt aufgerufen am 13.12.2024].
+- Stadt Chemnitz, „Sporteinrichtungen“, aktualisiert am 09.10.2024, https://portal-chemnitz.opendata.arcgis.com/datasets/efd8c6dd60c54ffb8c05e7b1a867b54f_0/explore?location=50.822380%2C12.887629%2C11.60&showTable=true [zuletzt aufgerufen am 13.12.2024].
 
 Weitere Quellen:
 Bahr, Wolfgang, Jörn Richter, und Chemnitzer Allgemeine Wohnungsbaugenossenschaft, Hrsg. 2002. Gartenstadt Gablenzsiedlung Chemnitz: Entstehung, Geschichte und Sanierung einer Genossenschaftssiedlung. Chemnitz: Verl. Heimatland Sachsen GmbH Chemnitz.

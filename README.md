@@ -150,8 +150,7 @@ Diese Angebote konzentrieren sich überwiegend auf den sozialen Austausch. Beisp
 Weitere Quellen:
 Bahr, Wolfgang, Jörn Richter, und Chemnitzer Allgemeine Wohnungsbaugenossenschaft, Hrsg. 2002. Gartenstadt Gablenzsiedlung Chemnitz: Entstehung, Geschichte und Sanierung einer Genossenschaftssiedlung. Chemnitz: Verl. Heimatland Sachsen GmbH Chemnitz.
 
-
-
+![Logos der TUC, JP DH und Chemnitz Kulturhauptstadt](media/vis_logos.png)
 
 
 

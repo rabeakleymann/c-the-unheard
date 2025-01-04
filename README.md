@@ -25,6 +25,8 @@ Die Geschichte des Vereinslebens sowie des studentischen Engagements in Chemnitz
 
 ![Gründungsjahre der studentischen Initiativen](media/vis_tuc_gründungsjahre.png)
 
+_Erstellt mit flourish.studio_
+
 Die Visualisierung zeigt eine Zeitleiste mit den Gründungsjahren der studentischen Initiativen von 1950 bis 2030. Mit 2015 und 2022 lassen sich zwei besonders aktive Gründungsjahre identifizieren, in denen jeweils drei Initiativen ins Leben gerufen wurden. Subbotnik e.V., T.U.C. Racing e.V. und ROCK YOUR LIFE! Chemnitz e.V. wurden im Jahr 2015 gegründet und erweitern das kulturelle, soziale und technische Angebot studentischer Initiativen an der TUC. Im Jahr 2022 folgten dann TUC tanzt, der Ring christlich-demokratischer Studenten (RCDS) und die Kritischen Einführungstage (KRETA), die eine weitere Diversifizierung und thematische Breite aufzeigen. Die älteste noch bestehende Initiative, die Katholische Studierenden Gemeinde Chemnitz (KSG), wurde bereits 1952 gegründet. Der THEORIE Lesekreis hingegen wurde erst im Jahr 2024 gegründet und kann demgemäß als relativ jung bezeichnet werden. Die Visualisierung zeigt eine Zeitleiste mit den Gründungsjahren der studentischen Initiativen von 1950 bis 2030. 2015 und 2022 waren mit jeweils drei Initiativen die gründungsreichsten Jahre. 
 
 ![Standorte der studentischen Initiativen](media/vis_tuc_standorte.png)

@@ -4,14 +4,14 @@ _work-in-progress_
 
 **Datenbasierte Kartierungen zivilgesellschaftlicher Diskurse in Chemnitz**
 
-![C the Unheard!](media/share.jpg)
+![C the Unheard!](media/vis_dashboard.png)
 
 
 Das Projektvorhaben widmet sich einer datenbasierten Kartierung zivilgesellschaftlicher Diskurse in Chemnitz. Zivilgesellschaftliche Aktivitäten prägen nicht nur die Chemnitzer Stadtöffentlichkeit sondern auch das Campusleben der TUC nachhaltig. Bisher gibt es keine Datensammlung, die das vielfältige Engagement zivilgesellschaftlicher Akteure dokumentiert und sichtbar macht. Hier setzt das Projekt mit der Erstellung einer offenen Datensammlung an, die mit zivilgesellschaftlichen Projektpartnern, Studierenden und Bürger*innen erarbeitet und exploriert wird.
 
 ## Initiativen und Vereine in Chemnitz 
 
-Chemnitz lebt vom zivilgesellschaftlichen Engagement seiner Bürge*innen, das in zahlreichen Vereinen und Initiativen sichtbar wird. Die Visualisierung zeigt eine erste Verteilung und das Verhältnis der im Rahmen des Projekts untersuchten Vereine und Initiativen in Chemnitz. Die Datensammlung stellt dabei lediglich einen exemplarischen, jedoch nicht vollständigen Ausschnitt der Vereine und Initiativen in Chemnitz dar. 
+Chemnitz lebt vom zivilgesellschaftlichen Engagement seiner Bürger*innen, das in zahlreichen Vereinen und Initiativen sichtbar wird. Die Visualisierung zeigt eine erste Verteilung und das Verhältnis der im Rahmen des Projekts untersuchten Vereine und Initiativen in Chemnitz. Die Datensammlung stellt dabei lediglich einen exemplarischen, jedoch nicht vollständigen Ausschnitt der Vereine und Initiativen in Chemnitz dar. 
 
 Sportvereine (154), der Stadtverband Chemnitz der Kleingärtner e.V. (179) und Angebote der kulturellen Bildung (138) decken gemeinsam mehr als 90% des Vereinslebens in Chemnitz ab. Die Bedeutung des Sports wird unter anderem durch das Vorhandensein von insgesamt 133 Sporteinrichtungen unterstrichen, die überall in der Stadt zu finden sind. Die Kleingartenbewegung in Chemnitz blickt auf eine lange Geschichte zurück. So wurde beispielsweise im Zeitraum von 1920 bis 1937 die Gartenstadt Gablenz entwickelt, die nicht nur grünen Freiraum schaffen sollte, sondern auch ein neues Modell des städtischen Zusammenlebens darstellt. Mit einem Anteil von ca. 3,7% an der [Gesamtbevölkerung von Chemnitz](https://www.chemnitz.de/chemnitz/de/unsere-stadt/stadtportrait/zahlen-und-fakten/bevoelkerung.html) wird ferner deutlich, dass das ehrenamtliche Engagement von Studierenden der TU eine große Rolle spielt. 
 
@@ -139,7 +139,7 @@ _Erstellt mit flourish.studio_
 
 Diese Angebote konzentrieren sich überwiegend auf den sozialen Austausch. Beispiele hierfür sind Bowling, Grillen, Wichteln, Spieleabende oder Kochduelle. Einige dieser Angebote sind saisonabhängig und an bestimmte Zeiten im Jahr gekoppelt, wie etwa Eislaufen, Hexenfeuer, Sommerfeste oder Weihnachtsfeiern. Nur selten gibt es bei den wiederkehrenden Angeboten einen inhaltlichen Bezug zur Initiative (bspw. Chorreisen, Konzert, qualifizierte Beratung).
 
-## Datengrundlage
+## Datenquellen
 
 - Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
 - Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].

@@ -151,20 +151,20 @@ Diese regelmäßig stattfindenden Angebote spiegeln die soziale Dimension des st
 
 Die Data Stories von „C the Unheard!“ veranschaulichen, wie divers das zivilgesellschaftliche und studentische Engagement in Chemnitz ist. Indem sie historische Entwicklungen, geografische Verteilungen und thematische Schwerpunkte aufgreifen, zeigen sie, wie zivilgesellschaftliche und studentische Initiativen das Leben in der Stadt und an der Universität nachhaltig gestalten. Die Data Stories eröffnen so neue datenbasierte Perspektiven auf Chemnitz. Darüber hinaus verdeutlichen die Data Stories auch, wie Daten als Werkzeug für Teilhabe genutzt werden können. Sie tragen unter anderem dazu bei, die Vielfalt des zivilgesellschaftlichen und studentischen Engagement von Chemnitz als Kulturhauptstadt Europas 2025 zu dokumentieren und sichtbar zu machen.
 
-## Projekt
+# Projekt
 
 „C the Unheard!“ ist ein interdisziplinäres Lehr-Lern-Projekt unter der Leitung von [Jun.-Prof. Dr. Rabea Kleymann](https://www.tu-chemnitz.de/phil/ifgk/dh/index.html) an der TU Chemnitz, das sich der datenbasierten Kartierung zivilgesellschaftlicher Diskurse widmet. Im Projektzeitraum von März bis Dezember 2024 arbeiteten Studierende des Kurses „Digitales Publizieren in den Humanities“ (Max Lorsheijd u.a.) gemeinsam mit dem Team der Juniorprofessur (Marlene Kropp, Sri Krishnan, Klara Schönfelder), externen Partnern wie [Chemnitz Open Space](https://chemnitz-open.space/) und verschiedenen zivilgesellschaftlichen und studentischen Initiativen daran, die vielfältigen Formen des Engagements in Chemnitz sichtbar zu machen. Ziel des Projekts ist es, eine offene Datensammlung zu erstellen, die nicht nur neue Perspektiven auf die Stadt- und Hochschulöffentlichkeit eröffnet, sondern auch Kompetenzen im Umgang mit Daten vermittelt.
 
 Gefördert im Rahmen von [TUCculture2025](https://www.tu-chemnitz.de/tu/tucculture2025/index.html), einer Initiative der TU Chemnitz im Kontext der [Kulturhauptstadt Europas Chemnitz 2025](https://chemnitz2025.de/), verbindet das Projekt digitale Methoden mit Formaten zivilgesellschaftlicher Partizipation. Besonderer Dank gilt den zivilgesellschaftlichen und studentischen Partner:innen, die mit ihrem Engagement und ihrer Teilnahme am Datenpicknick einen entscheidenden Beitrag zur Datensammlung geleistet haben.
 Weitere Informationen und Zugang zu den Projektergebnissen finden Sie auch auf der [Projektwebseite](https://www.tu-chemnitz.de/phil/ifgk/dh/forschung/projekte/index.html).
 
-## Kontakt
+# Kontakt
 
 Haben Sie weitere zivilgesellschaftliche Daten über Chemnitz, die Sie teilen möchten? Oder haben Sie Fragen oder Anregungen zu unserem Projekt? Schreiben Sie uns gerne! Das Team der Juniorprofessur für Digital Humanities freut sich über Ihre Nachricht.
 Mehr über die Aktivitäten der Juniorprofessur für Digital Humanities erfahren Sie auf unseren Social-Media-Kanälen: [Mastodon](@rabeakleymann@fedihum.org) und Instagram [digital_humanities_chemnitz](https://www.instagram.com/digital_humanities_chemnitz/).
 
 
-## Datenquellen
+# Datenquellen
 
 - Stadtsportbund Chemnitz e.V., „Willkommen im Chemnitzer Sport“, https://www.sport-in-chemnitz.de/sportangebote/ [zuletzt aufgerufen am 13.12.2024].
 - Stadt Chemnitz, „Kulturelle Bildung Chemnitz“, https://www.kulturelle-bildung-chemnitz.de/de/Angebotssuche_1213.html [zuletzt aufgerufen am 13.12.2024].
@@ -172,7 +172,7 @@ Mehr über die Aktivitäten der Juniorprofessur für Digital Humanities erfahren
 - Student_innen Rat der TU Chemnitz, „Anerkannte stud. Initiativen des Student_innenrates“, aktualisiert am 26.07.2024, https://www.stura.tu-chemnitz.de/initiativen [zuletzt aufgerufen am 13.12.2024].
 - Stadt Chemnitz, „Sporteinrichtungen“, aktualisiert am 09.10.2024, https://portal-chemnitz.opendata.arcgis.com/datasets/efd8c6dd60c54ffb8c05e7b1a867b54f_0/explore?location=50.822380%2C12.887629%2C11.60&showTable=true [zuletzt aufgerufen am 13.12.2024].
 
-## Literaturnachweise
+# Literaturnachweise
 - Bahr, Wolfgang, Jörn Richter, und Chemnitzer Allgemeine Wohnungsbaugenossenschaft, Hrsg. 2002. Gartenstadt Gablenzsiedlung Chemnitz: Entstehung, Geschichte und Sanierung einer Genossenschaftssiedlung. Chemnitz: Verl. Heimatland Sachsen GmbH Chemnitz.
 -Bundeszentrale für politische Bildung. 2025. „Datenreport 2021: Zivilgesellschaftliches Engagement“. https://www.bpb.de/kurz-knapp/zahlen-und-fakten/datenreport-2021/politische-und-gesellschaftliche-partizipation/330245/zivilgesellschaftliches-engagement/ [zuletzt aufgerufen am 6.1.2025].
 - Feigenbaum, Anna, und Aria Alamalhodaei. 2020. The Data Storytelling Workbook. Abingdon, Oxon: Routledge.

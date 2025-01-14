@@ -58,28 +58,28 @@ Das Balkendiagramm zeigt zunächst die Anzahl der dokumentierten Veranstaltungen
 
 _Erstellt mit flourish.studio_
 
-Im Vergleich zur vorherigen Visualisierung, die nur sechs Initiativen zeigt, erweitert dieses Balkendiagramm die Perspektive. Es umfasst 13 Initiativen und schließt auch das Jahr 2024 mit ein, in dem die Datensammlung erstellt wurde.Dabei wird jedoch sichtbar, wie unterschiedlich die verfügbare Datenlage für die einzelnen Initiativen ist.
-Für [Radio UNiCC](https://www.radio-unicc.de/), Subbotnik e.V. und das Projekt [Lesezeichen](https://www.agiua.de/projekt_lesezeichen.php) konnten beispielsweise nur Veranstaltungen aus einem kurzen Zeitraum von zwei Monaten erfasst werden. Diese Einschränkung spiegelt die Herausforderungen der Datenverfügbarkeit wider und zeigt, dass einige Initiativen in der Visualisierung unterrepräsentiert sind. Das Balkendiagramm dient daher weniger als Vergleichsmaßstab für die Aktivitäten der Initiativen, sondern vielmehr als Einblick in die Reichweite und Lücken der vorhandenen Datenbestände.
+Im Vergleich zur vorherigen Visualisierung, die nur sechs Initiativen zeigt, erweitert dieses Balkendiagramm die Perspektive. Es umfasst 13 Initiativen und schließt auch das Jahr 2024 mit ein, in dem die Datensammlung erstellt wurde. Dabei wird sichtbar, wie unterschiedlich die verfügbare Datenlage für die einzelnen Initiativen ist.
+Für [Radio UNiCC](https://www.radio-unicc.de/), Subbotnik e.V. und das Projekt [Lesezeichen](https://www.agiua.de/projekt_lesezeichen.php) konnten beispielsweise nur Veranstaltungen aus einem kurzen Zeitraum von zwei Monaten erfasst werden. Das Balkendiagramm dient daher weniger als Vergleichsmaßstab für die Aktivitäten der Initiativen. Vielmehr werden die Lücken in den vorhandenen Datenbeständen sichtbar.
 
 ![Veranstaltung der studentischen Initiativen zwischen 1967-2023 pro Initiative](media/vis_tuc_veranstaltungen_initiative_1967-2023.png)
 
 _Erstellt mit flourish.studio_
 
-Das Diagramm zeigt die jährliche Anzahl der dokumentierten Veranstaltungen ausgewählter studentischer Initiativen. Besonders hervorzuheben ist wieder das Collegium musicum, das als einzige Initiative eine konstante Veranstaltungszahl über mehrere Jahrzehnte hinweg aufweist. Im Gegensatz dazu wird deutlich, dass die meisten anderen Initiativen erst zur Jahrtausendwende mit der Durchführung von Veranstaltungen begonnen haben oder frühere Veranstaltungen erst ab diesem Zeitpunkt auf ihren Internetseiten dokumentieren. Beispiele wie Lauf-KulTour e.V., SMD Chemnitz oder Radio UNiCC zeigen erst ab den 2000er Jahren einen deutlichen Anstieg an Aktivitäten.
+Das Diagramm zeigt die jährliche Anzahl der dokumentierten Veranstaltungen ausgewählter studentischer Initiativen. Besonders hervorzuheben ist wieder das Collegium musicum, das als einzige Initiative eine konstante Veranstaltungszahl über mehrere Jahrzehnte hinweg aufweist. Im Gegensatz dazu wird deutlich, dass die meisten anderen Initiativen erst zur Jahrtausendwende mit der Durchführung von Veranstaltungen begonnen haben oder frühere Veranstaltungen erst ab diesem Zeitpunkt auf ihren Internetseiten dokumentieren. Bei den Initiativen Lauf-KulTour e.V., SMD Chemnitz oder Radio UNiCC lässt sich erst ab den 2000er Jahren ein deutlicher Anstieg an Aktivitäten beobachten.
 
 ![Veranstaltung der studentischen Initiativen zwischen 2018-2023 pro Initiative](media/vis_tuc_veranstaltungen_2018-2023.png)
 
 _Erstellt mit flourish.studio_
 
-Doch wie sah dieses Engagement in jüngerer Vergangenheit aus? Diese folgende Visualisierung bietet einen detaillierten Einblick in die Veranstaltungszahlen der Jahre 2018 bis 2023 und zeigt zwei zentrale Entwicklungen auf: 1.) Im Gegensatz zu früheren Jahren ist das Collegium musicum in diesem kurzen Zeitraum nicht die Initiative mit den meisten Veranstaltungen pro Jahr, 2.) Die Visualisierung zeigt ferner einen drastischen Rückgang der Veranstaltungszahlen in den Jahren 2020 und 2021. Der Einbruch ist eine unmittelbare Konsequenz der Maßnahmen zur Eindämmung der Covid-19-Pandemie, welche mit umfassenden Einschränkungen im Veranstaltungsbereich einhergingen. Mit den bundesweiten Lockerungen im Jahr 2022 kann jedoch eine Wiederbelebung des studentischen Engagements beobachtet werden. Zahlreiche Aktivitäten werden wieder aufgenommen.
+Doch wie sah dieses Engagement in jüngerer Vergangenheit aus? Diese folgende Visualisierung bietet einen detaillierten Einblick in die Veranstaltungszahlen der Jahre 2018 bis 2023 und zeigt zwei Entwicklungen auf. Zum einen ist das Collegium musicum in diesem kurzen Zeitraum nicht die Initiative mit den meisten Veranstaltungen pro Jahr. Zum anderen zeigt die Visualisierung zeigt einen drastischen Rückgang der Veranstaltungszahlen in den Jahren 2020 und 2021. Der Einbruch ist eine unmittelbare Konsequenz der Maßnahmen zur Eindämmung der Covid-19-Pandemie, welche mit umfassenden Einschränkungen im Veranstaltungsbereich einhergingen. Mit den bundesweiten Lockerungen im Jahr 2022 kann jedoch eine Wiederbelebung des studentischen Engagements beobachtet werden. Zahlreiche Aktivitäten werden wieder aufgenommen.
 
-## Wo die TU Chemnitz lebt: Veranstaltungsorte im Überblick
+## Wo das Engagement der TU Chemnitz lebt: Veranstaltungsorte im Überblick
 
 ![Veranstaltungsorte international der studentischen Initiativen](media/vis_tuc_veranstaltungsorte_international.png)
 
 _Erstellt mit flourish.studio_
 
-Studentisches Engagement ist nicht nur inhaltlich vielfältig, sondern auch räumlich weit verteilt. Doch wo genau finden die Aktivitäten der Initiativen statt? Während die meisten Veranstaltungen in Chemnitz selbst stattfinden, wagen einige Initiativen auch den Blick über die Stadtgrenzen hinaus und sogar ins Ausland. Die folgenden Visualisierungen zeigen, welche Orte von studentischen Initiativen genutzt werden und wie unterschiedlich ihr räumlicher Aktionsradius ist.
+Das studentische Engagement an der TU Chemnitz ist nicht nur inhaltlich breit gefächert, sondern auch räumlich weit verteilt. Doch wo finden eigentlich die Aktivitäten der Initiativen statt? Das Sankey-Diagram zeigt, dass die meisten Veranstaltungen national stattfinden. Einige Initiativen hingegen wagen auch den Blick über die Stadtgrenzen hinaus, ja sogar ins Ausland. Die folgenden Visualisierungen geben einen Einblick über den räumlichen Aktionsradius der studentischen Initiativen der TU Chemnitz.
 
 ![Detalliertere Ansicht der Veranstaltungsorte international der studentischen Initiativen](media/vis_tuc_veranstaltungsorte_international_closeup.png)
 
@@ -99,11 +99,11 @@ _Erstellt mit flourish.studio_
 
 Das Diagramm veranschaulicht, in welchen Städten die von studentischen Initiativen organisierten Veranstaltungen stattfanden. Chemnitz ist mit 773 Veranstaltungen erwartungsgemäß der zentrale Ort des studentischen Engagements. Initiativen wie Subbotnik e.V., die Kritischen Einführungstage (KRETA) oder die [Chemnitzer Spielenacht](https://spielenacht.de/) zeigen eine starke lokale Verankerung, da sie ausschließlich in Chemnitz aktiv sind.
 
-Eine Ausnahme bildet Lauf-KulTour e.V., die als einzige Initiative mehr Veranstaltungen außerhalb Chemnitz organisierte. Die sportlichen Wettkämpfe führten die Initiative unter anderem nach Meißen, Freiberg, Zittau und Marburg. Es ist jedoch darauf hinzuweisen, dass diese Analyse sich auf die auf der Webseite der Initiative dokumentierten Wettkämpfe beschränkt. Regelmäßige Trainingseinheiten, die überwiegend in Chemnitz stattfinden, wurden hier nicht berücksichtigt.
+Eine Ausnahme bildet Lauf-KulTour e.V., die als einzige Initiative mehr Veranstaltungen außerhalb Chemnitz organisiert. Die sportlichen Wettkämpfe führten die Initiative unter anderem nach Meißen, Freiberg, Zittau und Marburg. Es ist jedoch darauf hinzuweisen, dass diese Analyse sich auf die auf der Webseite der Initiative dokumentierten Wettkämpfe beschränkt. Regelmäßige Trainingseinheiten, die überwiegend in Chemnitz stattfinden, wurden hier nicht berücksichtigt.
 
 ## Ein Monat voller "Campus"-leben: Veranstaltungen im April 2024
 
-Der April ist ein belebter Monat für die Studierenden der TU Chemnitz. Neue Veranstaltungen begrüßen die Semesteranfänger:innen, regelmäßige Angebote finden ihren Platz im Kalender, und Initiativen wie das Radio UNiCC bringen kreatives Leben auf den Campus. Aber was macht den April 2024 besonders?
+Der April ist ein belebter Monat für die Studierenden der TU Chemnitz. Neue Veranstaltungen begrüßen die Semesteranfänger:innen, regelmäßige Angebote finden ihren Platz im Kalender, und Initiativen wie das Radio UNiCC bringen kreatives Leben auf den Campus. Aber was macht den April 2024 besonders? Ein Blick auf die Daten gibt Aufschluss.
 
 ![Veranstaltung der studentischen Initiativen im April 2024](media/vis_tuc_veranstaltungen_april_gesamt.png)
 
@@ -111,7 +111,7 @@ _Erstellt mit flourish.studio_
 
 Das Säulendiagramm zeigt die aktiven Initiativen in diesem Monat mit der Anzahl der von ihnen ausgetragenen Veranstaltungen. Im Unterschied zu den bisherigen Visualisierungen taucht das Collegium musicum in diesem Balkendiagramm nicht auf. Stattdessen übernimmt das studentische Radio UNiCC die Spitzenposition mit 79 Veranstaltungen. Das studentische Radio bietet den Zuhörenden ein vielfältiges Programm, das sich aus Wissens- und Musiksendungen zusammensetzt. 
 
-Ein weiteres interessantes Detail: Die kritischen Einführungstage und das [Patenprogramm des International Office](https://www.tu-chemnitz.de/international/incoming/patenprogramm/) tauchen in der Liste auf. Das ist ein Zeichen für den Semesterbeginn, denn im April finden traditionell die Einführungsveranstaltungen für die neuen Studierenden statt. Gemeinsame Veranstaltungen sollen nicht nur den Einstieg ins Campusleben erleichtern, sondern auch Orientierung in Chemnitz bieten, das Leben in der Stadt näherbringen und Gelegenheiten schaffen, neue Leute kennenzulernen.
+Ein weiteres interessantes Detail: Die kritischen Einführungstage und das [Patenprogramm des International Office](https://www.tu-chemnitz.de/international/incoming/patenprogramm/) tauchen in der Liste auf. Das ist ein sicheres Zeichen für den Semesterbeginn. Traditionell finden im April die Einführungsveranstaltungen für die neuen Studierenden statt. Gemeinsame Aktivitäten sollen nicht nur den Einstieg ins Campusleben erleichtern, sondern auch Orientierung in Chemnitz bieten, das Leben in der Stadt näherbringen und Gelegenheiten schaffen, neue Leute kennenzulernen.
 
 ![Veranstaltung der studentischen Initiativen im April 2024 pro Tag](media/vis_tuc_veranstaltungen_april_tag.png)
 
@@ -129,13 +129,13 @@ _Erstellt mit flourish.studio_
 
 Präziser als die vorherige Visualisierung veranschaulichen diese beiden Säulendiagramme die Wochentage, an denen die Veranstaltungen studentischer Initiativen stattgefunden haben. Es wird deutlich, dass der Mittwoch mit 43 Veranstaltungen der bevorzugte Tag für studentische Aktivitäten war. Ein weiterer Trend ist mit Blick auf das Wochenende zu beobachten: Schon an Freitagen ist die Anzahl der Veranstaltungen mit insgesamt 22 Terminen vergleichsweise niedrig. An Samstagen (6 Veranstaltungen) und an Sonntagen (7 Veranstaltungen) fällt die Zahl nochmals deutlich ab. 
 
-Eine deutliche Differenz zeigt also sich in der Anzahl der Veranstaltungen zwischen Werktagen und Wochenenden: An Werktagen fanden etwa 13-mal so viele Veranstaltungen statt wie an den Wochenendtagen. Studierende sind an den Wochenenden weniger in Chemnitz, da sie Familie / Freund:innen in anderen Städten besuchen. Dadurch sinkt das potenzielle Publikum für Veranstaltungen, was Initiativen dazu bewegen könnte, ihre Aktivitäten überwiegend auf die Werktage zu konzentrieren, an denen die Studierenden vermehrt vor Ort sind. 
+Eine deutliche Differenz zeigt sich in der Anzahl der Veranstaltungen zwischen Werktagen und Wochenenden: An Werktagen fanden etwa 13-mal so viele Veranstaltungen statt wie an den Wochenendtagen. Studierende sind an den Wochenenden weniger in Chemnitz, da sie Familie oder Freund:innen in anderen Städten besuchen. Dadurch sinkt das potenzielle Publikum für Veranstaltungen, was Initiativen dazu bewegen könnte, ihre Aktivitäten überwiegend auf die Werktage zu konzentrieren, an denen die Studierenden vermehrt vor Ort sind. 
 
 ![Veranstaltungsorte der studentischen Initiativen im April 2024](media/vis_tuc_veranstaltungsorte_april.png)
 
 _Erstellt mit Palladio @OpenStreetMap contributors_
 
-Die Karte veranschaulicht, wo im April 2024 Veranstaltungen studentischer Initiativen stattgefunden haben. Jeder Punkt steht für einen Austragungsort und seine Größe beschreibt die Häufigkeit, wie oft dieser Ort genutzt wurde. Die Hotspots des studentischen Lebens lagen in der Chemnitzer Innenstadt, dem Campus an der Reichenhainer Straße sowie im Areal rund um den Universitätsstandort an der Straße der Nationen. Vereinzelt haben Veranstaltungen auf dem Kaßberg und in Furth stattgefunden, keine der Veranstaltungen im April 2024 war jedoch außerhalb Chemnitz.
+Neben den zeitlichen Präferenzen ist es ferner interessant zu betrachten, an welchen Orten die Veranstaltungen im April 2024 stattfanden. Die folgende Karte veranschaulicht, wo im April 2024 Veranstaltungen studentischer Initiativen stattgefunden haben. Jeder Punkt steht für einen Austragungsort und seine Größe beschreibt die Häufigkeit, wie oft dieser Ort genutzt wurde. Die Hotspots des studentischen Lebens lagen in der Chemnitzer Innenstadt, dem Campus an der Reichenhainer Straße sowie im Areal rund um den Universitätsstandort an der Straße der Nationen. Vereinzelt haben Veranstaltungen auf dem Kaßberg und in Furth stattgefunden. Im April 2024 gab es jedoch keine Veranstaltung außerhalb von Chemnitz. 
 
 ## Tradition und Kontinuität: Wiederkehrende Angebote an der TU Chemnitz
 
@@ -149,19 +149,19 @@ Diese regelmäßig stattfindenden Angebote spiegeln die soziale Dimension des st
 
 ## Chemnitz durch Daten neu entdecken: Erkenntnisse und Bedeutung der Data Stories
 
-Die Data Stories von „C the Unheard!“ zeigen, wie divers das zivilgesellschaftliche und studentische Engagement in Chemnitz ist. Indem sie historische Entwicklungen, geografische Verteilungen und thematische Schwerpunkte aufgreifen, zeigen sie, wie zivilgesellschaftliche und studentische Initiativen das Leben in der Stadt und an der Universität nachhaltig gestalten. Dabei geht es nicht nur um Zahlen, sondern darum, mit Daten neue Perspektiven auf Chemnitz zu eröffnen. Darüber hinaus verdeutlichen die Data Stories auch, wie Daten als Werkzeug für Teilhabe genutzt werden können. Sie tragen unter anderem dazu bei, die Vielfalt von Chemnitz als Kulturhauptstadt Europas 2025 zu dokumentieren und sichtbar zu machen.
+Die Data Stories von „C the Unheard!“ veranschaulichen, wie divers das zivilgesellschaftliche und studentische Engagement in Chemnitz ist. Indem sie historische Entwicklungen, geografische Verteilungen und thematische Schwerpunkte aufgreifen, zeigen sie, wie zivilgesellschaftliche und studentische Initiativen das Leben in der Stadt und an der Universität nachhaltig gestalten. Die Data Stories eröffnen so neue datenbasierte Perspektiven auf Chemnitz. Darüber hinaus verdeutlichen die Data Stories auch, wie Daten als Werkzeug für Teilhabe genutzt werden können. Sie tragen unter anderem dazu bei, die Vielfalt des zivilgesellschaftlichen und studentischen Engagement von Chemnitz als Kulturhauptstadt Europas 2025 zu dokumentieren und sichtbar zu machen.
 
 ## Projekt
 
-„C the Unheard!“ ist ein interdisziplinäres Lehr-Lern-Projekt geleitet von [Jun.-Prof. Dr. Rabea Kleymann](https://www.tu-chemnitz.de/phil/ifgk/dh/index.html) an der TU Chemnitz, das sich der datenbasierten Kartierung zivilgesellschaftlicher Diskurse widmet. Im Projektzeitraum von März bis Dezember 2024 arbeiteten Studierende des Kurses „Digitales Publizieren in den Humanities“ (Max Lorsheijd u.a.) gemeinsam mit dem Team der Juniorprofessur (Marlene Kropp, Sri Krishnan, Klara Schönfelder), externen Partnern wie [Chemnitz Open Space](https://chemnitz-open.space/) und verschiedenen zivilgesellschaftlichen und studentischen Initiativen daran, die vielfältigen Formen des Engagements in Chemnitz sichtbar zu machen. Ziel des Projekts ist es, eine offene Datensammlung zu erstellen, die nicht nur neue Perspektiven auf die Stadt- und Hochschulöffentlichkeit eröffnet, sondern auch Kompetenzen im Umgang mit Daten fördert.
+„C the Unheard!“ ist ein interdisziplinäres Lehr-Lern-Projekt unter der Leitung von [Jun.-Prof. Dr. Rabea Kleymann](https://www.tu-chemnitz.de/phil/ifgk/dh/index.html) an der TU Chemnitz, das sich der datenbasierten Kartierung zivilgesellschaftlicher Diskurse widmet. Im Projektzeitraum von März bis Dezember 2024 arbeiteten Studierende des Kurses „Digitales Publizieren in den Humanities“ (Max Lorsheijd u.a.) gemeinsam mit dem Team der Juniorprofessur (Marlene Kropp, Sri Krishnan, Klara Schönfelder), externen Partnern wie [Chemnitz Open Space](https://chemnitz-open.space/) und verschiedenen zivilgesellschaftlichen und studentischen Initiativen daran, die vielfältigen Formen des Engagements in Chemnitz sichtbar zu machen. Ziel des Projekts ist es, eine offene Datensammlung zu erstellen, die nicht nur neue Perspektiven auf die Stadt- und Hochschulöffentlichkeit eröffnet, sondern auch Kompetenzen im Umgang mit Daten vermittelt.
 
-Gefördert im Rahmen von [TUCculture2025](https://www.tu-chemnitz.de/tu/tucculture2025/index.html), einer Initiative der TU Chemnitz im Kontext der [Kulturhauptstadt Europas Chemnitz 2025](https://chemnitz2025.de/), verbindet das Projekt digitale Methoden mit der Tradition zivilgesellschaftlicher Partizipation. Besonderer Dank gilt den zivilgesellschaftlichen und studentischen Partner:innen, die mit ihrem Engagement und ihrer Teilnahme am Datenpicknick einen entscheidenden Beitrag zur Datensammlung geleistet haben.
+Gefördert im Rahmen von [TUCculture2025](https://www.tu-chemnitz.de/tu/tucculture2025/index.html), einer Initiative der TU Chemnitz im Kontext der [Kulturhauptstadt Europas Chemnitz 2025](https://chemnitz2025.de/), verbindet das Projekt digitale Methoden mit Formaten zivilgesellschaftlicher Partizipation. Besonderer Dank gilt den zivilgesellschaftlichen und studentischen Partner:innen, die mit ihrem Engagement und ihrer Teilnahme am Datenpicknick einen entscheidenden Beitrag zur Datensammlung geleistet haben.
 Weitere Informationen und Zugang zu den Projektergebnissen finden Sie auch auf der [Projektwebseite](https://www.tu-chemnitz.de/phil/ifgk/dh/forschung/projekte/index.html).
 
 ## Kontakt
 
 Haben Sie weitere zivilgesellschaftliche Daten über Chemnitz, die Sie teilen möchten? Oder haben Sie Fragen oder Anregungen zu unserem Projekt? Schreiben Sie uns gerne! Das Team der Juniorprofessur für Digital Humanities freut sich über Ihre Nachricht.
-Mehr über die Aktivitäten der Juniorprofessur für Digital Humanities erfahren Sie auf unseren Social-Media-Kanälen: [Mastodon](@rabeakleymann@fedihum.org) und Instagram digital_humanities_chemnitz.
+Mehr über die Aktivitäten der Juniorprofessur für Digital Humanities erfahren Sie auf unseren Social-Media-Kanälen: [Mastodon](@rabeakleymann@fedihum.org) und Instagram [digital_humanities_chemnitz](https://www.instagram.com/digital_humanities_chemnitz/).
 
 
 ## Datenquellen

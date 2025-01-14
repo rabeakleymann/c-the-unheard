@@ -14,7 +14,7 @@ Hier setzt das Lehr-Lern-Projekt [C the Unheard!](https://www.tu-chemnitz.de/phi
 
 Daten allein reichen jedoch nicht aus, um die Vielfalt des zivilgesellschaftlichen Engagements in Chemnitz sichtbar zu machen. Denn Daten müssen erzählt, kontextualisiert und reflektiert werden. Daher sind im Rahmen des Projekts Data Stories entstanden. Data Stories sind narrativ und visuell aufbereitete Daten, die neue Zusammenhänge aufzeigen und andere Einsichten in die Datensammlung ermöglichen. Hier werden nun die Ergebnisse des Projekts präsentiert: Geschichten über das Engagement zivilgesellschaftlicher Akteur:innen und studentischer Initiativen, die Chemnitz und seinen Campus auf vielfältige Weise prägen.
 
-## Zivilgesellschaft in Bewegung: Chemnitzer Initiativen und Vereine 
+### Zivilgesellschaft in Bewegung: Chemnitzer Initiativen und Vereine 
 
 ![Tortendiagramm Anzahl Zivilgesellschaftliche und studentische Organisationen](media/vis_tuc_stadt_anzahl_gesamt.png)
 

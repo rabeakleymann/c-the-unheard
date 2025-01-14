@@ -30,7 +30,7 @@ _Erstellt mit flourish.studio_
 
 Chemnitz zeichnet sich also durch Vielfalt aus. Doch wie und wann haben sich die zahlreichen Vereine und Initiativen in der Stadt und auf dem Campus entwickelt? Ein Blick auf die Gründungsjahre zeigt, wie zivilgesellschaftliches Engagement auf historische Ereignisse und gesellschaftliche Entwicklungen reagiert hat. Besonders spannend ist der Einfluss der politischen Wendezeit: Nach 1990 erlebte Chemnitz eine regelrechte Gründungswelle von Vereinen und Initiativen, die insbesondere die Stadtöffentlichkeit nachhaltig prägte. Die Visualisierung veranschaulicht die Gründungsjahre von Vereinen und studentischen Initiativen entlang einer Zeitleiste von 1950 bis 2030. Jede Raute repräsentiert die Gründung eines Vereins oder einer Initiative, ihre Größe symbolisiert die Anzahl der Neugründungen in einem bestimmten Jahr. Auffällig ist insbesondere der Anstieg der städtischen Vereinsgründungen nach 1990. Dieser Anstieg lässt sich auf das Inkrafttreten des [Gesetzes über Vereinigungen](https://www.verfassungen.de/ddr/vereinigungsgesetz90.html) in der ehemaligen DDR am 21. Februar 1990 zurückführen. Dieses Gesetz, eine direkte Folge der politischen Liberalisierung während der Wendezeit, erleichterte die Gründung neuer Vereine und verlangte gleichzeitig von bestehenden Organisationen eine Neuregistrierung und Anpassung ihrer Satzungen an die neuen rechtlichen Rahmenbedingungen. Im Jahr 1991 wurden daher 98 Neugründungen städtischer Vereine registriert.
 
-## Von Studierenden für Studierende: Initiativen der TU Chemnitz
+### Von Studierenden für Studierende: Initiativen der TU Chemnitz
 
 ![Gründungsjahre der studentischen Initiativen](media/vis_tuc_gründungsjahre.png)
 
@@ -44,7 +44,7 @@ _Erstellt mit Palladio @OpenStreetMap contributors_
 
 Wo genau sind die studentischen Initiativen aktiv und welche Rolle spielt der Campus dabei? Die folgende Visualisierung gibt Aufschluss über die geografische Verteilung der studentischen Initiativen in Chemnitz. Die Größe der Punkte korreliert mit der Anzahl der Initiativen an einem bestimmten Standort. Besonders deutlich wird, dass der TU Campus Reichenhainer Straße und der Universitätsstandort Straße der Nationen zentrale Knotenpunkte für studentisches Engagement sind. Doch das studentische Engagement beschränkt sich nicht nur auf den Campus. Einige Initiativen befinden sich auf dem Kaßberg, in der Nähe der Bibliothek oder im Stadtzentrum. So werden auch Räume außerhalb des Campusgenutzt, um unterschiedliche Interessen und Aktivitäten zu entfalten. Campus- und Stadtöffentlichkeit sind also in Chemnitz miteinander vernetzt.
 
-## Studentisches Engagement im Wandel: Veranstaltungen zwischen 1967-2024
+### Studentisches Engagement im Wandel: Veranstaltungen zwischen 1967-2024
 
 Ob Konzerte, Lesungen, Exkursionen oder Filmabende - die Veranstaltungen der studentischen Initiativen sind Orte der Begegnung. Sie schaffen Gelegenheiten für den Austausch zwischen Studierenden und Bürger:innen, fördern die Gemeinschaft und tragen aktiv zur kulturellen und sozialen Gestaltung von Chemnitz bei. Die im Rahmen des Projekts erstellte Datensammlung umfasst 957 Veranstaltugnen studentischer Initiativen, die bis in die 1960er Jahre zurückreichen. Es ist jedoch wichtig zu berücksichtigen, dass in der Datensammlung nicht alle Veranstaltungen der studentischen Initiativen repräsentiert sind. Einige der studentischen Initiativen verfügen über aktuelle Veranstaltungskalender, die sich beispielsweise auf den laufenden Monat beschränken. Die folgenden Data Stories werfen daher auch Fragen der Datenerhebung auf. Mehr noch, sie problematisieren die Herausforderungen, denen sich studentische Initiativen gegenübersehen, wenn es um die nachhaltige Bereitstellung von Daten geht. Die folgenden Visualisierungen geben einen Überblick über die stattgefundenen Veranstaltungen. 
 
@@ -73,7 +73,7 @@ _Erstellt mit flourish.studio_
 
 Doch wie sah dieses Engagement in jüngerer Vergangenheit aus? Diese folgende Visualisierung bietet einen detaillierten Einblick in die Veranstaltungszahlen der Jahre 2018 bis 2023 und zeigt zwei Entwicklungen auf. Zum einen ist das Collegium musicum in diesem kurzen Zeitraum nicht die Initiative mit den meisten Veranstaltungen pro Jahr. Zum anderen zeigt die Visualisierung zeigt einen drastischen Rückgang der Veranstaltungszahlen in den Jahren 2020 und 2021. Der Einbruch ist eine unmittelbare Konsequenz der Maßnahmen zur Eindämmung der Covid-19-Pandemie, welche mit umfassenden Einschränkungen im Veranstaltungsbereich einhergingen. Mit den bundesweiten Lockerungen im Jahr 2022 kann jedoch eine Wiederbelebung des studentischen Engagements beobachtet werden. Zahlreiche Aktivitäten werden wieder aufgenommen.
 
-## Wo das Engagement der TU Chemnitz lebt: Veranstaltungsorte im Überblick
+### Wo das Engagement der TU Chemnitz lebt: Veranstaltungsorte im Überblick
 
 ![Veranstaltungsorte international der studentischen Initiativen](media/vis_tuc_veranstaltungsorte_international.png)
 
@@ -101,7 +101,7 @@ Das Diagramm veranschaulicht, in welchen Städten die von studentischen Initiati
 
 Eine Ausnahme bildet Lauf-KulTour e.V., die als einzige Initiative mehr Veranstaltungen außerhalb Chemnitz organisiert. Die sportlichen Wettkämpfe führten die Initiative unter anderem nach Meißen, Freiberg, Zittau und Marburg. Es ist jedoch darauf hinzuweisen, dass diese Analyse sich auf die auf der Webseite der Initiative dokumentierten Wettkämpfe beschränkt. Regelmäßige Trainingseinheiten, die überwiegend in Chemnitz stattfinden, wurden hier nicht berücksichtigt.
 
-## Ein Monat voller "Campus"-leben: Veranstaltungen im April 2024
+### Ein Monat voller "Campus"-leben: Veranstaltungen im April 2024
 
 Der April ist ein belebter Monat für die Studierenden der TU Chemnitz. Neue Veranstaltungen begrüßen die Semesteranfänger:innen, regelmäßige Angebote finden ihren Platz im Kalender, und Initiativen wie das Radio UNiCC bringen kreatives Leben auf den Campus. Aber was macht den April 2024 besonders? Ein Blick auf die Daten gibt Aufschluss.
 
@@ -137,7 +137,7 @@ _Erstellt mit Palladio @OpenStreetMap contributors_
 
 Neben den zeitlichen Präferenzen ist es ferner interessant zu betrachten, an welchen Orten die Veranstaltungen im April 2024 stattfanden. Die folgende Karte veranschaulicht, wo im April 2024 Veranstaltungen studentischer Initiativen stattgefunden haben. Jeder Punkt steht für einen Austragungsort und seine Größe beschreibt die Häufigkeit, wie oft dieser Ort genutzt wurde. Die Hotspots des studentischen Lebens lagen in der Chemnitzer Innenstadt, dem Campus an der Reichenhainer Straße sowie im Areal rund um den Universitätsstandort an der Straße der Nationen. Vereinzelt haben Veranstaltungen auf dem Kaßberg und in Furth stattgefunden. Im April 2024 gab es jedoch keine Veranstaltung außerhalb von Chemnitz. 
 
-## Tradition und Kontinuität: Wiederkehrende Angebote an der TU Chemnitz
+### Tradition und Kontinuität: Wiederkehrende Angebote an der TU Chemnitz
 
 Neben den Veranstaltungen der studentischen Initiativen wurden auch ihre wiederkehrenden Angebote untersucht, die in der untenstehenden Word-Cloud zusammengefasst sind. 
 
